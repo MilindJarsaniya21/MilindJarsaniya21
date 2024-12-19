@@ -58,6 +58,6 @@ I'm **Milind Jarsaniya**, a final-year **B.Tech IT** student at [CHARUSAT Univer
 
 ---
 
-## Fun Fact
+## 🚀 Fun Fact
 
-When I'm not coding, you'll find me sketching or reading books, I love reading non-fiction, trying to dive into fiction too!
+When I'm not coding, you'll find me sketching or reading books, I love reading non-fiction, trying to dive into fiction too-but bugs in my code give me enough drama! 🐞
