@@ -14,7 +14,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MilindJarsaniya21/MilindJarsaniya21/refs/heads/main/wave.gif" width="30">
 
-I'm **Milind Jarsaniya**, a final-year **B.Tech IT** student at [CHARUSAT University](https://www.charusat.ac.in) and a passionate **Full-Stack Developer**. I'm gearing up to start my journey as **SDE Intern** at [Azilen](https://www.azilen.com). I enjoy solving problems, building web applications, and learning new technologies.
+I'm **Milind Jarsaniya**, a final-year **B.Tech IT** student at [CHARUSAT University](https://www.charusat.ac.in) and a passionate **Full-Stack Developer**. I'm **SDE Intern** at [Azilen](https://www.azilen.com). I enjoy solving problems, building web applications, and learning new technologies.
 
 ---
 
@@ -26,6 +26,10 @@ I'm **Milind Jarsaniya**, a final-year **B.Tech IT** student at [CHARUSAT Univer
 <!-- ### Tools -->
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Springboot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
