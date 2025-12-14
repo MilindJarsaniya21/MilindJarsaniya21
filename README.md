@@ -14,7 +14,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MilindJarsaniya21/MilindJarsaniya21/refs/heads/main/wave.gif" width="30">
 
-I'm **Milind Jarsaniya**, a final-year **B.Tech IT** student at [CHARUSAT University](https://www.charusat.ac.in) and a passionate **Full-Stack Developer**. I'm **SDE Intern** at [Azilen](https://www.azilen.com). I enjoy solving problems, building web applications, and learning new technologies.
+I'm **Milind Jarsaniya**, a final-year **B.Tech IT** student at [CHARUSAT University](https://www.charusat.ac.in) and a passionate **Full-Stack Developer**. I'm **Associate Software Developer** at [Azilen](https://www.azilen.com). I enjoy solving problems, building web applications, and learning new technologies.
 
 ---
 
